@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly>
+    <id>sample</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <outputDirectory>/</outputDirectory>
+            <directory>${project.basedir}/adb/</directory>
+        </fileSet>
+    </fileSets>
+</assembly>
