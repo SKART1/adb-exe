@@ -24,8 +24,9 @@
                         </goals>
                         <configuration>
                             <descriptors>
-                                <descriptor>assembly/sample.xml</descriptor>
+                                <descriptor>assembly/adb.xml</descriptor>
                             </descriptors>
+                            <appendAssemblyId>false</appendAssemblyId>
                         </configuration>
                     </execution>
                 </executions>
