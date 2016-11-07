@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/User/Repo.svg)](https://jitpack.io/#SKART1/adb-exe)
+[![Release](https://jitpack.io/v/SKART1/adb-exe.svg)](https://jitpack.io/#SKART1/adb-exe)
 
 # adb-exe
 Repo with adb from android-sdk as artifact
