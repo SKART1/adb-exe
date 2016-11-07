@@ -6,7 +6,6 @@
     </formats>
     <fileSets>
         <fileSet>
-
             <outputDirectory>/</outputDirectory>
             <directory>${project.basedir}/adb/</directory>
         </fileSet>
